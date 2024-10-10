@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255685153360"
-global.ownername = "KEYTWO TV"
+global.ownernomer = "‪256705919502‬"
+global.ownername = "GIFT CUTIE"
 global.ytname = "YT: Keytwotz"
 global.socialm = "Facebook: https://facebook.com/groups/487156432293620/"
 global.location = "Tanzania, Kinondoni, Dares'alaam"
 
-global.ownernumber = '255685153360'  //creator number
-global.ownername = 'KEY TWO TV' //owner name
+global.ownernumber = '‪256705919502‬'  //creator number
+global.ownername = 'GIFT CUTIE' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
